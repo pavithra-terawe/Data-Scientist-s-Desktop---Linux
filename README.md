@@ -234,7 +234,7 @@ text(model.rpart)
 
 Here\'s the result:
 
-![](./images/8640ec8324f10c504c3f48edee11cbe7c688cd77.png)
+![](https://github.com/pavithra-terawe/Data-Scientist-s-Desktop---Linux/blob/main/images/8640ec8324f10c504c3f48edee11cbe7c688cd77.png?raw=true)
 
 To determine how well it performs on the training set, use the following
 code:
